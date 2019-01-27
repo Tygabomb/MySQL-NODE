@@ -24,7 +24,8 @@ If there is enough of that item in stock, the purchase will go through. If there
 
 
 ### Runing Example LINK 
-![Mysql table](Screen Shot 2019-01-26 at 7.38.52 PM)
+![working table](https://user-images.githubusercontent.com/42306913/51797004-fdaab400-21b9-11e9-8313-3ed72f3d214f.png)
+
 
 
 
