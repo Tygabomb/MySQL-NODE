@@ -15,7 +15,7 @@ CREATE TABLE products (
 );
 
 
--- 10 sample products
+-- 11 sample products in Rows
 INSERT INTO products (ProductName, departmentName, price, stockQuantity) 
 VALUES ("Processor", "Intel CORE m7", 529.99, 50);
 
@@ -35,7 +35,10 @@ INSERT INTO products (ProductName, departmentName, price, stockQuantity)
 VALUES("Power Supply", "EVGA - 80 PLUS 600W ATX", 34.99, 10);
 
 INSERT INTO products (ProductName, departmentName, price, stockQuantity) 
-VALUES ("Standard Runtime CAL", "Databases", 50000, 5);
+VALUES ("KeyBoard & wireless mouse", "RaZor Keyboard", 89.99, 5);
+
+INSERT INTO products (ProductName, departmentName, price, stockQuantity) 
+VALUES ("Monitors", " ACER Predetor X27", 199.99, 19);
 
 INSERT INTO products (ProductName, departmentName, price, stockQuantity) 
 VALUES ("PC Case", "Xidax X-6 Gaming PC", 499.99, 11);
